@@ -1,0 +1,4 @@
+D:\NotGames\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/NotGames/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\Prog\github\cpp\Olympic -B D:\Prog\github\cpp\Olympic\cmake-build-debug
+-- Configuring done (2.5s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/Prog/github/cpp/Olympic/cmake-build-debug

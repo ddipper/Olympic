@@ -1,0 +1,5 @@
+# ninja log v5
+640	826	7188435362785761	Olympic.exe	a9f2c8f4626efe01
+2	640	7188435361002340	CMakeFiles/Olympic.dir/Olympic/Olympic.cpp.obj	d9912c3016846eaf
+8	673	7188431347509769	CMakeFiles/Olympic.dir/Olympic/BubbleSort.cpp.obj	e8cf035e55187404
+0	205	7188481969177473	build.ninja	11ed26b7b2f1c41
